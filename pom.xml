@@ -9,8 +9,8 @@
 		<version>3.2.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.department.service</groupId>
-	<artifactId>department-service</artifactId>
+	<groupId>com.address.service</groupId>
+	<artifactId>address-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>department-service</name>
 	<description>Demo project for Spring Boot</description>
